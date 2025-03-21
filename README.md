@@ -67,6 +67,3 @@
     </div>
 </body>
 </html>
-``` with your actual email address. This page includes a simple form where users can enter their name, email, and message. When they submit the form, it will open their email client to send the message to you.
-
-Feel free to customize the styles and content as needed! If you have any specific requirements or need further assistance, just let me know.
